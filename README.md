@@ -1,1 +1,1 @@
-https://avelauw.github.io/team_goofy_goobers/index.html
+https://github.com/AVELAUW/team_goofy_goobers/blob/main/index.html
